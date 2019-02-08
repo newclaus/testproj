@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<RunSettings>
+  <Description>Default test settings.</Description>
+  <Deployment enabled="false" />
+  <Execution>
+    <TestTypeSpecific />
+    <AgentRule name="Execution Agents">
+    </AgentRule>
+  </Execution>
+
+  <TestRunParameters>
+    <Parameter name="Parameter1" value="parameter1-value" />
+  </TestRunParameters>
+
+  <Properties />
+</RunSettings>
